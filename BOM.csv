@@ -1,0 +1,24 @@
+﻿Part Name,Manufacturer,Price in GBP,Converted to USD (x1.33),Quantity,Total Price in GBP,Converted to USD,CPC Farnell Order Code,Notes
+"1N4007G+ Recovery Diode 1kV 1A, Single, 1V , 30A",MULTICOMP PRO,£0.03,$0.04,10,£0.30,$0.40,SC15525,Min order quantity of 10
+"EEUFM1E470 Electrolytic Capacitor, 47uF, 25V, +/- 20%",PANASONIC,£0.23,$0.31,10,£2.30,$3.06,CA09929,For power stuff
+"ATMEGA328P-PU MCU, 8Bit, AVR, 32K Flash 28PDIP",ATMEL,£2.85,$3.79,5,£14.25,$18.95,SC09742,The main microcontroller chip!
+AS-16.000-18 16MHz Crystal,RALTRON,£0.14,$0.19,5,£0.70,$0.93,SC18229,Timing crystal
+"18688 Header, Female, Stackable, 2.54mm, 6 Way",PRO SIGNAL,£0.54,$0.72,15,£8.10,$10.77,CN18764,GPIO Headers
+"M20-9990346 0.1"" Pin Header, 3 Way, 10 Pack",HARWIN,£1.14,$1.52,1,£1.14,$1.52,CN09984,Put 2 together for the 2x3 ICSP Header
+"HLMP-1340 LED, 3mm, HE-Red",BROADCOM,£0.17,$0.23,10,£1.70,$2.26,SC11554,For power LED and programmable LED
+"1N4148 (DO-35) Small Signal Diode, 100Vm 150mA, 50 Pack",MULTICOMP PRO,£0.69,$0.92,1,£0.69,$0.92,SC07296,For serial DTR
+"C320C104K5 R5TA Multilayer Ceramic Capacitor, 0.1uF 50V, +/- 10% Radial Leaded, 2.54mm",KEMET,£0.08,$0.11,20,£1.60,$2.13,CA09214,For power stuff
+"K220J15C0G F53L2 Capacitor, 22pF, 50V, NP0, Radial",VISHAY,£0.08,$0.11,10,£0.80,$1.06,CA06803,Crystal decoupling
+"FC68148 DC Power Socket, PCB Mount, DC 10A",CLIFF ELECTRONIC COMPONENTS,£0.44,$0.59,5,£2.20,$2.93,CN01545,Power in barrel jack
+"L7805ABV Voltage Regulator 5v, 7805",STMICROELECTRONICS,£0.34,$0.45,5,£1.70,$2.26,SC10586,Voltage regulation
+"MF25 10K Resistor, 0.25W 1% 10K, 50 Pack",MULTICOMP PRO,£2.12,$2.82,1,£2.12,$2.82,RE03723,Resists reset
+"MF25 1K Resistor, 0.25W 1% 1K, 50 Pack",MULTICOMP PRO,£1.38,$1.84,1,£1.38,$1.84,RE03722,Resists for LEDs
+"PTS645SL50-2 LFS Tactile Switch SPST, 130gf, 12V DC, 50mA",C&K COMPONENTS,£0.17,$0.23,5,£0.85,$1.13,SW06710,Reset switch
+"FIT0146 Stackable Female Header, 2.54mm, 8 Way, 10 Pack",DFROBOT,£2.59,$3.44,2,£5.18,$6.89,PC02802,Can be cut and sanded for the other size headers
+"MC-2227-28-03-F1 IC Socket, DIL, 0.3"" / 7.62mm, 28 Way, 17 Pack",MULTICOMP PRO,£2.47,$3.29,1,£2.47,$3.29,SC08129,"Holds microcontroller chip, so it is replacable"
+"PCB, FR4, 2 Layers, Black Solder Mask, White Silkscreen (5 Pack + Shipping)",JLCPCB,£12.47,$16.59,1,£12.47,$16.59,N/A,The actual PCB
+DollaTek USBASP USBISP AVR USBasp_H6 Programmer + 6 pin Cable,DollaTek (AMAZON),£4.99,$6.64,1,£4.99,$6.64,N/A,To program the bootloader and direct program code
+,,,,Total Price in GBP,£64.94,,,
+,,,,VAT (20%),£12.99,,,
+,,,,Total Price in GBP with VAT,£77.93,,,
+,,,,Total Price in USD with VAT,£103.64
