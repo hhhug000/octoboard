@@ -545,7 +545,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "/home/hugo/Documents/GitHub/octoboard/pcb-export/",
+      "plot": "/home/hugo/Documents/GitHub/octoboard/pcb/pcb-export/",
       "specctra_dsn": "",
       "vrml": ""
     },
