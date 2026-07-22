@@ -38,3 +38,8 @@ Built for the Hack Club Stardance YSWS program
 *   **Power management** Steps down barrel jack or input voltage to clean filtered 5v for the chip, and broken out for components
 
 ---
+
+## Notes
+
+Make sure to flash the bootloader to the board in Arduino IDE even if you will only use ICSP.
+This is because it programs the fuses, and programs will not work properly without it.
