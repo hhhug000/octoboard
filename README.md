@@ -1,4 +1,4 @@
-de# Octoboard
+# Octoboard
 
 An ATmega328P-PU development board designed from scratch in KiCad for prototyping AVR projects without breadboard mess. It uses only THT components to simplify soldering, and does not use an onboard serial chip to save on cost and simplicity
 
