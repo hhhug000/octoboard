@@ -1,4 +1,4 @@
-# Octoboard
+de# Octoboard
 
 An ATmega328P-PU development board designed from scratch in KiCad for prototyping AVR projects without breadboard mess. It uses only THT components to simplify soldering, and does not use an onboard serial chip to save on cost and simplicity
 
@@ -43,3 +43,11 @@ Built for the Hack Club Stardance YSWS program
 
 Make sure to flash the bootloader to the board in Arduino IDE even if you will only use ICSP.
 This is because it programs the fuses, and programs will not work properly without it.
+
+---
+
+## Programming
+
+The device can be programmed in a variety of languages.
+I have personally tested it with Arduino C++ and my own blockly based system.
+The device can be programmed with avrdude or the arduino ide.
