@@ -36,6 +36,7 @@ Built for the Hack Club Stardance YSWS program
 *   **Clock speed** External 16 MHz crystal oscillator
 *   **I/O** All GPIO pins broken out to standardized 2.54mm pitch female headers
 *   **Power management** Steps down barrel jack or input voltage to clean filtered 5v for the chip, and broken out for components
+*   **Programming** Is programmed with standard Arduino C++, or any other lang with support like TinyGo or Micropython
 
 ---
 
